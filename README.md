@@ -1,3 +1,8 @@
+## About the Project
+This page gives information about the water levels in California's reservoirs, implemented using a public data API (from the California Data Exchange Center) and two of React's widgets: a chart and a month-picker. 
+
+The chart shows the total capacity (light blue) and current storage level (dark green), both in acre-feet, of California's seven biggest reservoirs.
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
