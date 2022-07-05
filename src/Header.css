@@ -1,0 +1,8 @@
+.header {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 28px;
+  background: rgb(66, 145, 152);
+  color: white;
+  padding: 35px;
+}
